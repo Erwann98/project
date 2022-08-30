@@ -58,7 +58,3 @@ inflation %>%
 ```
 
 This is **bold** and this is *italic*
-
-```{python}
-print("Hi! Python here")
-```
